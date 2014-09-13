@@ -1,0 +1,15 @@
+{
+  "name": "personal ghost-crisp",
+  "version": "0.1.0",
+  "description": "personal ghost theme based off of crisp",
+  "url": "https://github.com/lizrush/personal-ghost-crisp",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+  "author": {
+    "name": "liz rush",
+    "email": "liz@lizmrush.com",
+    "url": "http://lizmrush.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lizrush/personal-ghost-crisp.git"
+  }

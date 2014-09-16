@@ -30,8 +30,8 @@
 			{{#if @blog.logo}}<a id="logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="{{@blog.title}}" /></a>{{/if}}
 			<h1><a href="{{@blog.url}}">{{@blog.title}}</a></h1>
 			<p>{{@blog.description}}</p>
-			{{> follow}}
 			{{> navigation}}
+			{{> follow}}
 		</header>
 		<main id="content">
 			{{{body}}}

@@ -177,9 +177,9 @@ h1.post-title {
 }
 h3.post-title {
 	margin-top:0.4em;
-	padding-bottom:0.9em;
+	padding-bottom:0.4em;
 	border-bottom: 1px solid #eee;
-	font-size: 1.4em;
+	font-size: 1.2em;
 	color: #454545;
 }
 
@@ -228,6 +228,7 @@ h3.post-title {
 }
 /* Footer */
 .pagination {
+	margin-top: 2em;
 	margin-bottom:1em;
 }
 footer a {

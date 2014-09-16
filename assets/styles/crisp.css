@@ -40,7 +40,7 @@ article {
 	border-bottom: 0.1em #eee solid;
 	padding-bottom: 1.7em;
 }
-p, hr, h4, h5, h6 {
+p, hr, h4, h5 {
 	margin-top: 0.9em;
 	margin-bottom: 0.9em;
 }
@@ -74,7 +74,8 @@ h5 {
 	font-size:1.2em;
 }
 h6 {
-	font-size:1.1em;
+	line-height: 1em;
+	font-size:.8em;
 }
 /* Page Elements */
 img, iframe {
@@ -147,6 +148,12 @@ header #logo img {
 	-webkit-border-radius: 4.5em;
 	border: none;
 }
+
+.navigation {
+	margin-bottom: 1.5em;
+	margin-left: .5em;
+}
+
 #follow-icons {
 	font-size: 0.7em;
 	margin-top: -0.7em;

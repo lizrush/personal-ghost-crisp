@@ -224,15 +224,18 @@ h3.post-title {
 }
 
 #social-bar {
-	margin-top: 3em;
+	border-top: 0.1em #eee solid;
+	margin-top: 5em;
 	background-color:#FFF;
-	padding: 1em;
 }
-#comments {
+
+#moot {
+	font-weight: 500;
 	margin-top: 0.5em;
 	padding-bottom: 0.2em;
-	border-bottom: 1px solid #eee;
 }
+
+
 /* Footer */
 .pagination {
 	margin-top: 2em;
